@@ -1,7 +1,8 @@
 # 동화 속으로 :cherry_blossom:
-2019 JCC IT show 전시작  
+2019 IT show 전시작  
 
 ## 01. 스토리 설명
+<img width="500" alt="사진" src="https://user-images.githubusercontent.com/47407495/71982634-468f3780-3268-11ea-8d1b-791a0869da8b.png">
 
 >학교 도서관에서 우연히 책을 펼치게 된 주인공!  
 동화 속으로 빨려 들어가게 되는데...  
@@ -23,7 +24,9 @@
 * Firebase
 
 ## 05. 사용 에셋
-* [Rest Client for Unity](https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501)(각 미니게임의 랭킹기능 구현을 위해 사용)
+* [Rest Client for Unity](https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501)
+
+## 06. 실행 방법
 
 ## 만든 사람들
 김수경 [@sugyeongKim](https://github.com/sugyeongKim)  
@@ -94,3 +97,7 @@
     <td>이은주선생님</td>
   </tr>
  </table>
+
+## 참고자료
+[REST API 사용하기](https://www.youtube.com/watch?v=Fz0Sl4tW5O0&t=904s)  
+[유니티 2D게임 개발](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-unity/dashboard)
